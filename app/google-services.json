@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317774025382",
+    "project_id": "pandawastudiomusic-59517",
+    "storage_bucket": "pandawastudiomusic-59517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317774025382:android:838eb6bd2b158b2905da67",
+        "android_client_info": {
+          "package_name": "com.example.pandawastudiomusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317774025382-jonsdso2g440qmcc9if23tkbhjd41rod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPc-EmRqLqK7SSx8h_gN0BC5k8s-xIgjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317774025382-jonsdso2g440qmcc9if23tkbhjd41rod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
